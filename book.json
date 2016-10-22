@@ -1,0 +1,37 @@
+{
+    "title" : "一个算法程序员的全栈之路",
+    "description" : "记录自己的学习历程",
+    "author" : "Zhang Jianhai",
+    "generator": "site",
+    "language" : "zh-hans",
+    "gitbook" : "2.6.4",
+    "links" : {
+        "sidebar" : {
+            "Home" : "http://vagrants.win"
+        }
+    },
+   "plugins": [
+        "advanced-emoji@0.1.5",
+        "ace",
+        "emphasize",
+        "katex",
+        "anchors",
+        "include-codeblock",
+        "mermaid",
+        "sectionx",
+        "expandable-chapters",
+        "codeblock-filename",
+        "local-video",
+        "toc",
+        "multipart"
+    ],
+    "pluginsConfig": {
+
+        "tbfed-pagefooter": {
+            "copyright":"Copyright &copy zhangjikai.com 2015",
+            "modify_label": "该文件修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        }
+
+    }
+}
