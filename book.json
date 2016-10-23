@@ -4,10 +4,10 @@
     "author" : "Zhang Jianhai",
     "generator": "site",
     "language" : "zh-hans",
-    "gitbook" : "2.6.4",
+    "gitbook" : "3.2.0",
     "links" : {
         "sidebar" : {
-            "Home" : "http://vagrants.win"
+            "我的博客" : "http://vagrants.win"
         }
     },
    "plugins": [
