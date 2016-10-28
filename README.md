@@ -1,6 +1,4 @@
-# 记录自己的学习
 
-坚持学习，提升自己。
 
 ## Program Language
 * [Java编程思想《Thinking in Java》](http://java.vagrants.win)
